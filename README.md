@@ -4,7 +4,7 @@
 
 El curso Integrador deberá:
 
-1.  Aplicar las 3 tecnologías: Node, React y React Native.
+1.  Aplicar las 3 tecnologías: Node, React.
     
 2.  Darles a los participantes una elección libre de la temática siguiendo alguno de los siguientes ejes temáticos:
     
@@ -16,9 +16,9 @@ El curso Integrador deberá:
 
 Ejemplos:
 
-1.  Lugares turísticos de La Rioja.
-    
-2.  Estadios del mundial.
+- Lugares turísticos de La Rioja.
+- Locales de gastronomía.
+- Paradas de colectivo, estaciones de bicicletas públicas, u otro servicio público de interés.
     
 
 3.  El recurso elegido por la temática debe ser geolocalizable. Se debe incluir un campo a una URL de imagen.
@@ -32,9 +32,7 @@ Orden:
 1.  Node
     
 2.  React
-    
-3.  Reac Native
-    
+        
 
   
 
@@ -68,8 +66,8 @@ Actividad #2: Programación de los endpoints para un CRUD de un recurso. Reempla
     
 -   GET :: /resources/:id ---> Trae el resource con la id especificada.
     
--   POST :: /resources ---> Crea un solo resource a la base de datos. Recibe datos por body. Verificar la entrada con Joi.
+-   POST :: /resources ---> Crea un solo resource a la base de datos. Recibe datos por body. 
     
 -   DELETE :: /resources/:id ---> Borra un elemento de la base de datos.
     
--   PATCH :: /resources/:id ---> Edita un resource con los datos enviados en body. Verificar body con Joi.
+-   PATCH :: /resources/:id ---> Edita un resource con los datos enviados en body. 
