@@ -1,0 +1,49 @@
+{
+    "clubes": [
+      {
+        "id": 1,
+        "name": "Club Atlético Alas Argentina",
+        "rating": 4,
+        "coordinates": [
+            -64.152206,
+            -31.360046
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Club Atlético Riojano",
+        "rating": 3,
+        "coordinates": [
+            -64.152206,
+            -31.360046
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Club San Martin",
+        "rating": 4,
+        "coordinates": [
+            -64.152206,
+            -31.360046
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Club Facundo",
+        "rating": 3,
+        "coordinates": [
+            -64.152206,
+            -31.360046
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Club Sportivo San Vicente",
+        "rating": 5,
+        "coordinates": [
+            -64.152206,
+            -31.360046
+        ]
+      }
+    ]
+}
